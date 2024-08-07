@@ -1,0 +1,23 @@
+.b1{
+  background-color: blue;
+}
+
+.main{
+  color: rgb(17, 122, 158);
+  padding-left: 33px;
+}
+.display{
+  padding-top: 3px;
+  color:rgb(176, 194, 212);
+}
+button{
+  margin:6px;
+}
+
+.btnContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
